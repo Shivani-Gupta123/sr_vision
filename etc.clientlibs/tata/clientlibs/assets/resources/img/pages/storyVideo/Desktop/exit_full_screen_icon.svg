@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="20px" viewBox="0 0 19 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>exit full screen</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Salt-Story-Video-Desktop" transform="translate(-1249.000000, -772.000000)" stroke="#FFFFFF">
+            <g id="video">
+                <g id="Group" transform="translate(56.000000, 192.000000)">
+                    <g id="Video" transform="translate(94.000000, 0.000000)">
+                        <g id="volume" transform="translate(1044.000000, 578.000000)">
+                            <g id="exit-full-screen" transform="translate(53.000000, 0.000000)">
+                                <g id="arrow_icon" transform="translate(6.717514, 17.717514) rotate(-45.000000) translate(-6.717514, -17.717514) translate(1.717514, 13.217514)">
+                                    <path d="M0,4.5 L9.92954861,4.5" id="Path-7"></path>
+                                    <polyline id="Path-6" points="5.86627486 0.00453918314 9.84578758 4.62880347 6.32365003 8.39048725"></polyline>
+                                </g>
+                                <g id="arrow_icon" transform="translate(16.725761, 6.701083) scale(-1, 1) rotate(43.000000) translate(-16.725761, -6.701083) translate(11.725761, 2.201083)">
+                                    <path d="M0,4.5 L9.92954861,4.5" id="Path-7"></path>
+                                    <polyline id="Path-6" points="5.86627486 0.00453918314 9.84578758 4.62880347 6.32365003 8.39048725"></polyline>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
